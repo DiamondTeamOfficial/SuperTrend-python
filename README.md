@@ -25,3 +25,5 @@ The Supertrend indicator doesn't predict the future direction of a trend but rat
 Combining with Other Indicators:
 
 The Supertrend indicator is often used in conjunction with other indicators, like RSI or moving averages, to enhance its accuracy and provide more robust trading signals. 
+![image](https://github.com/user-attachments/assets/f53b0bfd-187a-4a16-8d32-dbe180d729ab)
+![image](https://github.com/user-attachments/assets/50a65071-2325-4bc8-b070-a1815503f973)
